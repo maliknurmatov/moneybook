@@ -1,0 +1,19 @@
+{
+  "name": "moneybook",
+  "version": "0.0.1",
+  "description": "Moneybook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "money",
+    "finance",
+    "accounting",
+    "bank",
+    "bookeeping",
+    "accounts"
+  ],
+  "author": "Malik Nurmatov <mnurmatov@gmail.com> (https://github.com/maliknurmatov)",
+  "license": "BSD-2-Clause"
+}
